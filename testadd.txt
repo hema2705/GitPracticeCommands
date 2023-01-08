@@ -1,3 +1,5 @@
 I am added to clean repo
 Create a master and push
 I am editing the master file 
+After file updating and pulling to local 
+I am updating the file in my master branch
